@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sdrtrx-meanwell-rescue)(type Legacy)(uri ${KIPRJMOD}/sdrtrx-meanwell-rescue.lib)(options "")(descr ""))
+)
